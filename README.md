@@ -1,2 +1,7 @@
 # icici-razorpay-integration-android-sample
-ICICI Razor Pay Integration Android Sample
+
+## Important Link
+
+https://razorpay.com/docs/payment-gateway/android-integration/standard/
+
+https://github.com/razorpay/razorpay-php-testapp
