@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample ICICI Razor Pay App</string>
+    <string name="create_new_order">Create New Order</string>
+</resources>
