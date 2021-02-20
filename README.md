@@ -5,3 +5,6 @@
 https://razorpay.com/docs/payment-gateway/android-integration/standard/
 
 https://github.com/razorpay/razorpay-php-testapp
+
+
+**Replace your API before testing**
